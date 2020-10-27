@@ -6,4 +6,7 @@ public class myTest{
         System.out.println("goood");
         //TODO
     }
+    public void test2(){
+
+    }
 }
